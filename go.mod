@@ -1,5 +1,5 @@
-module github.com/cridenour/go-postgis
+module github.com/ehaghm/go-postgis
 
-go 1.21
+go 1.24
 
 require github.com/lib/pq v1.10.9
